@@ -1,6 +1,6 @@
 # Content-Based-and-Collaborative-Filtering-Recommendation-Systems
 
-This was our final project for CS 593: Data Mining II: Advanced Algorithms for Mining Big Data, under Porf. Khashayar Dehnad. This project contains two types of  recommendation systems, both working on independent of each other: 1. Content Based Recommendation System and 2. Collaborative Filtering Recommendation System. Content based recommendation systems recommend items such as movies, songs, products etc. (movies in our case) to users based on the similarity of content, whereas collaborative filtering recommendation systems suggests content based on the similarity between the users.
+This was our final project for CS 593: Data Mining II: Advanced Algorithms for Mining Big Data, under Prof. Khashayar Dehnad. This project contains two types of  recommendation systems, both working on independent of each other: 1. Content Based Recommendation System and 2. Collaborative Filtering Recommendation System. Content based recommendation systems recommend items such as movies, songs, products etc. (movies in our case) to users based on the similarity of content, whereas collaborative filtering recommendation systems suggests content based on the similarity between the users.
 
 ## Content Based Recommendation System:
 Dataset : [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
